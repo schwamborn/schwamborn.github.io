@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias Schwamborn on Matthias Schwamborn</title>
+    <link>https://schwamborn.github.io/</link>
+    <description>Recent content in Matthias Schwamborn on Matthias Schwamborn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Matthias Schwamborn</copyright>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BonnMotion</title>
+      <link>https://schwamborn.github.io/project/bonnmotion/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://schwamborn.github.io/project/bonnmotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAMER</title>
+      <link>https://schwamborn.github.io/project/tamer/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://schwamborn.github.io/project/tamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographische Restriktionen bei menschlicher Bewegungsmodellierung zur Leistungsbewertung in mobilen Netzen</title>
+      <link>https://schwamborn.github.io/publication/schwamborn2017/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://schwamborn.github.io/publication/schwamborn2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Extensive Map-oriented Trace Basis for Human Mobility Modeling</title>
+      <link>https://schwamborn.github.io/publication/schwamborn2016/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://schwamborn.github.io/publication/schwamborn2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Modeling and Impact of Geographic Restrictions for Human Mobility in Opportunistic Networks</title>
+      <link>https://schwamborn.github.io/publication/schwamborn2015/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://schwamborn.github.io/publication/schwamborn2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
