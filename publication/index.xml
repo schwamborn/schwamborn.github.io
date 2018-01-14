@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Matthias Schwamborn</title>
-    <link>https://schwamborn.github.io/publication/</link>
+    <link>http://matthias.schwamborn.me/publication/</link>
     <description>Recent content in Publications on Matthias Schwamborn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>Geographische Restriktionen bei menschlicher Bewegungsmodellierung zur Leistungsbewertung in mobilen Netzen</title>
-      <link>https://schwamborn.github.io/publication/schwamborn2017/</link>
+      <link>http://matthias.schwamborn.me/publication/schwamborn2017/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://schwamborn.github.io/publication/schwamborn2017/</guid>
+      <guid>http://matthias.schwamborn.me/publication/schwamborn2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Extensive Map-oriented Trace Basis for Human Mobility Modeling</title>
-      <link>https://schwamborn.github.io/publication/schwamborn2016/</link>
+      <link>http://matthias.schwamborn.me/publication/schwamborn2016/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://schwamborn.github.io/publication/schwamborn2016/</guid>
+      <guid>http://matthias.schwamborn.me/publication/schwamborn2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Modeling and Impact of Geographic Restrictions for Human Mobility in Opportunistic Networks</title>
-      <link>https://schwamborn.github.io/publication/schwamborn2015/</link>
+      <link>http://matthias.schwamborn.me/publication/schwamborn2015/</link>
       <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://schwamborn.github.io/publication/schwamborn2015/</guid>
+      <guid>http://matthias.schwamborn.me/publication/schwamborn2015/</guid>
       <description></description>
     </item>
     
