@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Matthias Schwamborn</title>
-    <link>http://matthias.schwamborn.me/project/</link>
-    <description>Recent content in Projects on Matthias Schwamborn</description>
+    <title>Mobility-modeling on Matthias Schwamborn</title>
+    <link>http://matthias.schwamborn.me/tags/mobility-modeling/</link>
+    <description>Recent content in Mobility-modeling on Matthias Schwamborn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Matthias Schwamborn</copyright>
     <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://matthias.schwamborn.me/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://matthias.schwamborn.me/tags/mobility-modeling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

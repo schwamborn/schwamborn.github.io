@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Matthias Schwamborn</copyright>
-    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://matthias.schwamborn.me/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://matthias.schwamborn.me/home/about/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://matthias.schwamborn.me/home/about/</guid>
+      <description>Biography Matthias Schwamborn is a postdoctoral researcher with the Institute of Transportation Systems of the German Aerospace Center (DLR). He received his graduate diploma in computer science from the University of Bonn, Germany, in 2009 and continued as a PhD student and research assistant with the Communication Systems group of the University of Bonn. From 2012 to 2018, he was with the Distributed Systems group of the University of Osnabrück, where he received his doctoral degree in 2017.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://matthias.schwamborn.me/home/publications/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://matthias.schwamborn.me/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://matthias.schwamborn.me/home/projects/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://matthias.schwamborn.me/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Reviews</title>
+      <link>http://matthias.schwamborn.me/home/peer_reviews/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://matthias.schwamborn.me/home/peer_reviews/</guid>
+      <description>Since 2010, I have been a reviewer for the following scientific conferences and journals:
+ Elsevier Computer Networks Springer Wireless Networks 19th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2018) 13th International Conference on Distributed Computing in Sensor Systems (DCOSS 2017) IFIP Networking 2016 Conference (NETWORKING 2016) 2016 IEEE International Conference on Communications - Selected Areas in Communications Symposium Internet of Things (ICC 2016 SAC IoT) 34th IEEE International Performance Computing and Communications Conference (IPCCC 2015) IEEE 2nd World Forum on Internet of Things (WF-IoT 2015) 33rd IEEE International Performance Computing and Communications Conference (IPCCC 2014) 17th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM 2014) IEEE International Conference on Communications (ICC 2014) Ad Hoc and Sensor Networking Symposium (AHSN) 6th International Workshop on Sensor Networks (SN 2013) in conjunction with the 22nd International Conference on Computer Communications and Networks (ICCCN 2013) IEEE International Conference on Communications (ICC 2013) Ad Hoc and Sensor Networking Symposium (AHSN) 10th IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS 2013) 16th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM 2013) 7th Security Research Conference (Future Security 2012) IEEE Global Communications Conference (GLOBECOM 2012) Ad Hoc and Sensor Networking Symposium (AHSN) IEEE International Conference on Communications (ICC 2012) Ad Hoc and Sensor Networking Symposium (AHSN) 9th IEEE International Symposium on Wireless Communication Systems (ISWCS 2012) 23rd IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2012) IEEE Global Communications Conference (GLOBECOM 2011) Ad Hoc and Sensor Networking Symposium (AHSN) IEEE International Conference on Communications (ICC 2011) Ad Hoc, Sensor and Mesh Networking Symposium (AHSM) IEEE Wireless Communications and Networking Conference (WCNC 2011) IEEE Global Communications Conference (GLOBECOM 2010) Ad Hoc and Sensor Networking Symposium (AHSN) IEEE International Conference on Communications (ICC 2010) Wireless and Mobile Networking Symposium (WNS)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://matthias.schwamborn.me/home/contact/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://matthias.schwamborn.me/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
